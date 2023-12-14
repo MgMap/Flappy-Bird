@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="sfml_project" targetName="sfml_project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5d0a877-76d8-4489-b235-dc1a8d2b2429" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectId" id="2E8jv4FS9ZLdayqHgXb8dITlK2W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/minau/CLionProjects/CS_8 sfml Final project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minau\CLionProjects\Final project\pics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.sfml_project">
+    <configuration name="Debug" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sfml_project" TARGET_NAME="sfml_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sfml_project" RUN_TARGET_NAME="sfml_project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sfml_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sfml_project" TARGET_NAME="sfml_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sfml_project" RUN_TARGET_NAME="sfml_project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.sfml_project" />
+      <item itemvalue="CMake Application.Debug" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5d0a877-76d8-4489-b235-dc1a8d2b2429" name="Changes" comment="" />
+      <created>1661984332492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661984332492</updated>
+      <workItem from="1661984333796" duration="1348000" />
+      <workItem from="1662079072312" duration="192000" />
+      <workItem from="1662505033631" duration="1356000" />
+      <workItem from="1666809795957" duration="1327000" />
+      <workItem from="1667280340543" duration="164000" />
+      <workItem from="1667280519878" duration="29000" />
+      <workItem from="1669852710906" duration="735000" />
+      <workItem from="1669871351115" duration="36182000" />
+      <workItem from="1670284544530" duration="17183000" />
+      <workItem from="1670345904143" duration="6533000" />
+      <workItem from="1670375058212" duration="1406000" />
+      <workItem from="1670376493716" duration="20314000" />
+      <workItem from="1670609888704" duration="2358000" />
+      <workItem from="1670975981766" duration="10136000" />
+      <workItem from="1671045094993" duration="703000" />
+      <workItem from="1678074510886" duration="5680000" />
+      <workItem from="1679259409364" duration="5981000" />
+      <workItem from="1679325520585" duration="655000" />
+      <workItem from="1679331547005" duration="121000" />
+      <workItem from="1680632838477" duration="1205000" />
+      <workItem from="1681169601920" duration="1410000" />
+      <workItem from="1681232037860" duration="594000" />
+      <workItem from="1694574145409" duration="5000" />
+      <workItem from="1694765243503" duration="28000" />
+      <workItem from="1698566631967" duration="883000" />
+      <workItem from="1701919236222" duration="600000" />
+      <workItem from="1702544865407" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="splash" />
+        <watch expression="splash" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
